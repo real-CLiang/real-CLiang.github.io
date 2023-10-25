@@ -15,21 +15,21 @@ I am currently working in the [Media Innovation Lab of HUAWEI CLOUD](https://www
 I have studied computer science courses at [School of Computer Science and Engineering](https://www2.scut.edu.cn/cs/), South China University of Technology, including software architecture theory and practice, advanced artificial intelligence Visual Computing and so on(Sep 2022 ~ June 2023). During this time, I worked on evolutionary algorithms in [Computational Intelligence Lab](http://www.dsail.vip/PersonInCharge.html). Prior to this, I studied for my bachelor's degree at [School of Automation](https://automation.gdut.edu.cn/), Guangdong University of Technology(Sep 2018 ~ June 2022). During this time, I worked on Computer Vision in [Key Laboratory of Intelligent Information Processing and System Integration of IoT,Ministry of Education](https://iipiot.gdut.edu.cn/index.htm),Guangdong University of Technology.
 <br/>
 <br/>
-Email:cliang988 AT 163.com  
-Address:中国(China)-深圳(Shenzhen)-龙岗区坂田华为基地E1-2C
+Email: cliang988 AT 163.com  
+Address: 中国(China)-深圳(Shenzhen)-龙岗区坂田华为基地E1-2C
 
 
 Research orientation
 ======
-1. Computer Graphics
+1. Auto Speech Recognition
+2. Optimization of Vehicle Scheduling Problem by Evolutionary Algorithm
+3. Case Segmentation of Weak Texture Objects in Computer Vision
+4. Computer Graphics (major)
     - Implementation and Reconstruction of Multi-material System in Ray-tracing Pipeline
     -  Performance Optimization of Raytracing Pipeline under Multi-View
-2. Auto Speech Recognition
-3. Optimization of Vehicle Scheduling Problem by Evolutionary Algorithm
-
 
 
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+email first
